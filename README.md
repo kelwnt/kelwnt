@@ -10,7 +10,7 @@
 ## Cursos 
 
 
-| Cursos                     | Término                                                    |
+| Cursos                     | Término                                                         |
 |----------------------------|-----------------------------------------------------------------|
-| Técnico em Informática     | 2023 - Finalização ao final deste ano (2025).
+| Técnico em Informática     | 2023 - Finalização ao final deste ano (2025).                   |     
 
