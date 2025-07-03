@@ -1,11 +1,10 @@
 ## Sejam bem-vindos ao meu mundo!
 
-![Gif do Desenvolvedor](https://i.gifer.com/Ao.gif)
+![Gif do Desenvolvedor] (https://i.gifer.com/Ao.gif)
 -----
 🥴 Olá, me chamo Raquel Wendt!
 
 💬 Sou Estudante de TI e trabalho com tecnologia há 2 anos, sempre fui apaixonada por tecnologia e principalmente jogos, jogo de tudo, CSGO2, LOL, VALORANT, DAYZ, MINE, RUST entre muitos outros.
-
 -----
 
 ## Cursos 
