@@ -1,6 +1,6 @@
 ## Sejam bem-vindos ao meu mundo!
 
-![Gif do Desenvolvedor] (https://i.gifer.com/Ao.gif)
+![Gif do Desenvolvedor](https://i.gifer.com/Ao.gif)
 -----
 🥴 Olá, me chamo Raquel Wendt!
 
