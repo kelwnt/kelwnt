@@ -1,7 +1,7 @@
 # 🎮👩🏻‍💻 Raquel Wendt — Codando sonhos e bugs desde sempre
 
 Olá! Me chamo **Raquel Wendt**, uma entusiasta da tecnologia com um pezinho no mundo dos games e outro no código. 💻🎮  
-Atualmente sou estudante de **Técnico em Informática** e atuo há 2 anos na área.  
+Atualmente sou estudante de **TI** e atuo há 2 anos na área.  
 Aqui no GitHub compartilho meus estudos, experimentos e projetos, todos pensados para aprender, evoluir e (quem sabe) inspirar.
 
 ## 🚀 Sobre mim
@@ -13,16 +13,6 @@ Trabalho para construir soluções funcionais, com código limpo e pensando semp
 
 ![Gif do Desenvolvedor](https://i.gifer.com/77w2.gif)
 -----
-
-## 📚 Formação
-
-| Curso                    | Status                           |
-|--------------------------|----------------------------------|
-| Técnico em Informática   | Cursando (conclusão em 2025)     |
-
- Durante o curso, venho adquirindo experiência com desenvolvimento web, banco de dados, lógica de programação e fundamentos de redes.     
-
-
 ---
 
 ## 💻 Tecnologias que utilizo no dia a dia
