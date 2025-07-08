@@ -27,17 +27,63 @@ Trabalho para construir soluções funcionais, com código limpo e pensando semp
 
 ## 💻 Tecnologias que utilizo no dia a dia
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React_Native-2025DD?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/NodeJS-777BB4?style=for-the-badge&logo=nodejs" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+  
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+    <p>React Native</p>
+  </div>
+  
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" height="40"/>
+    <p>Expo</p>
+  </div>
+  
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    <p>TypeScript</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <p>JavaScript</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+    <p>HTML</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+    <p>PHP</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <p>Node.js</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+    <p>MySQL</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    <p>C#</p>
+  </div>
+
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+    <p>Visual Studio</p>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <p>VS Code</p>
+  </div>
+  
 </div>
 
 ---
