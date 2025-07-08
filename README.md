@@ -1,26 +1,3 @@
-## Sejam bem-vindos!
-
-![Gif do Desenvolvedor](https://i.gifer.com/2GU.gif)
------
-🙋🏻‍♀️ Olá pessoal, me chamo Raquel Wendt!
-
-💬 Sou Estudante de TI 👩🏻‍💻 e trabalho com tecnologia há 2 anos, sempre fui apaixonada por tecnologia e principalmente jogos, jogo de tudo, CSGO2, LOL, VALORANT, DAYZ, MINE, RUST entre muitos outros.
------
-
-## Cursos 📚
-
-
-| Cursos                     | Término                                                         |
-|----------------------------|-----------------------------------------------------------------|
-| Técnico em Informática     | 2023 - Finalização ao final deste ano (2025).                   |     
-<<<<<<< HEAD
-## Sejam bem-vindos!
-=======
-## Bem-vindos ao meu mundo!
->>>>>>> 2e18eb3 (Update README.md)
-
------
-
 # 🎮👩🏻‍💻 Raquel Wendt — Codando sonhos e bugs desde sempre
 
 Olá! Me chamo **Raquel Wendt**, uma entusiasta da tecnologia com um pezinho no mundo dos games e outro no código. 💻🎮  
